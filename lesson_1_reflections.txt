@@ -1,0 +1,18 @@
+In my time as a server admin, I have never u
+sed version control to work on scripts 
+or programs like git. However, I have 
+found myself having to compare, 
+various version of scripts, configuraiton 
+files, and pushing different versions of 
+packages for various clients. In 
+addition to helping me with my 
+professional career, I know this will 
+help me spot changes, and roll 
+back should my changes not work well. 
+
+Q: How could having easy access to the entire history of a file make you 
+a more effecient programmer in the long term?
+
+A: Being able to recall specific verions, or rifle through old code snipets 
+for quick reuse, or trial might be useful.
+
